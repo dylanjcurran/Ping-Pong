@@ -1,4 +1,4 @@
-#Ping-Pong
+# Ping-Pong
 
 A simple JavaFX Ping-Pong game. This repository was mainly a test for java code.
 
