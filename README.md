@@ -1,6 +1,6 @@
 # Ping-Pong
 
-A simple JavaFX Ping-Pong game. This repository was mainly a test for java code.
+A simple JavaFX Ping-Pong game. This repository is mainly a test for Java code.
 
 ## Use (MacOS)
 
